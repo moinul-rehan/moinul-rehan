@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/moinul_rehan" target="blank"><img src="https://img.shields.io/twitter/follow/moinul_rehan?logo=twitter&style=for-the-badge" alt="moinul_rehan" /></a> </p>
 
+- 🔭 I’m currently studying **Computer Science and Engineering**
+
 - 🌱 I’m currently learning **C++ and Python**
 
 - 💬 Ask me about **Competitive Programming**
 
 - 📫 How to reach me **rehan.moinul.10@gmail.com**
-
-- 🔭 I’m currently studying **Computer Science and Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,5 +45,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/moinul-rehan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=moinul-rehan)  
-
-![Profile views](https://gpvc.arturio.dev/moinul-rehan)  
