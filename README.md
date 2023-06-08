@@ -32,8 +32,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinul-rehan&show_icons=true&locale=en&layout=compact" alt="moinul-rehan" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&locale=en" alt="moinul-rehan" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=moinul-rehan)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&" alt="moinul-rehan" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinul-rehan&theme=dark&show_icons=true)
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub metrics](https://metrics.lecoq.io/moinul-rehan)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=moinul-rehan)  
+
+![Profile views](https://gpvc.arturio.dev/moinul-rehan)  
