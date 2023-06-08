@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rehan.moinul.10@gmail.com**
 
-- 🔭 I’m currently studying Computer Science and Engineering **Computer Science and Engineering**
+- 🔭 I’m currently studying **Computer Science and Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
