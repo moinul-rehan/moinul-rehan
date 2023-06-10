@@ -13,7 +13,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="moinul-rehan" /> </p>
-<p align="left"><img src="https://camo.githubusercontent.com/efeb978beab7fffdb4db5b22b08bf8084ea0e557ec359b4a20f9e0d969e90365/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f306d6568656469686173616e3f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/moinul-rehan?label=Followers&amp;style=social" style="max-width: 100%;">
+<p align="left"><a href="https://github.com/moinul-rehan?tab=followers">
+<img src="https://camo.githubusercontent.com/efeb978beab7fffdb4db5b22b08bf8084ea0e557ec359b4a20f9e0d969e90365/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f306d6568656469686173616e3f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/moinul-rehan?label=Followers&amp;style=social" style="max-width: 100%;">
+  </a>
 
 <p align="left"> <a href="https://twitter.com/moinul_rehan" target="blank"><img src="https://img.shields.io/twitter/follow/moinul_rehan?logo=twitter&style=for-the-badge" alt="moinul_rehan" /></a> </p>
 
