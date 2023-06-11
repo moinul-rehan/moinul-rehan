@@ -1,3 +1,4 @@
+<img src="https://pbs.twimg.com/media/FyWGjIvaIAU0Zqd?format=jpg&name=4096x4096" alt="Banner" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Moinul Islam Rehan😎</h1>
 <div align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=5006&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A+passionate+Competitive+Programmer...;and+also+Creative+Designer..." alt="Typing SVG" /></a>
