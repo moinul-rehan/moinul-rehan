@@ -37,7 +37,7 @@
 <a href="https://www.hackerrank.com/moinul_rehan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moinul-rehan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moinul_rehan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moinul_rehan" height="30" width="40" /></a>
-<a href="https://discord.gg/rehan#4838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rehan#4838" height="30" width="40" /></a>
+<a href="https://discord.gg/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rehan#4838" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
