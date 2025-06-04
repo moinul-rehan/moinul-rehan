@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="moinul-rehan" /> </p>
 <p align="left"> <a href="https://twitter.com/moinul_rehan" target="blank"><img src="https://img.shields.io/twitter/follow/moinul_rehan?logo=twitter&style=for-the-badge" alt="moinul_rehan" /></a> </p>
 
-<h3 align="left">👩‍💻  About Me <br><br>Hi there, I am Moinul Islam Rehan. I am studying CSE Undergraduate at Bangladesh University of Business and Technology - BUBT. I am passionate about Competitive Programming.</h3>
+<h3 align="left">👩‍💻  About Me <br><br>Hi there, I am Moinul Islam Rehan. I am studying CSE Undergraduate at Bangladesh University of Business and Technology - BUBT. I am an UX Engineer.</h3>
 
 
 - 🔭 I’m currently studying **Computer Science and Engineering**
