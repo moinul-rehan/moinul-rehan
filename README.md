@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently studying **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **Customer Experience and Python**
 
-- 💬 Ask me about **Competitive Programming**
+- 💬 Ask me about **User Interface & User Experience**
 
 - 📫 How to reach me **rehan.moinul.10@gmail.com**
 
