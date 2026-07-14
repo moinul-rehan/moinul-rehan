@@ -1,86 +1,154 @@
-<img src="https://pbs.twimg.com/media/FyWGjIvaIAU0Zqd?format=jpg&name=4096x4096" alt="Banner" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<h1 align="center">Hi 👋, I'm Moinul Islam Rehan😎</h1>
 <div align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=5006&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A+UX+Engineer...;and+also+Creative+Designer..." alt="Typing SVG" /></a>
-  </div>
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=220&section=header&text=Moinul%20Rehan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Softvence+IT+Ltd.;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul-rehan&label=Profile%20views&color=0e75b6&style=flat" alt="moinul-rehan" /> </p>
-<p align="left"> <a href="https://twitter.com/moinul_rehan" target="blank"><img src="https://img.shields.io/twitter/follow/moinul_rehan?logo=twitter&style=for-the-badge" alt="moinul_rehan" /></a> </p>
+<br/><br/>
 
-<h3 align="left">👩‍💻  About Me <br><br>Hi there, I am Moinul Islam Rehan. I am studying CSE Undergraduate at Bangladesh University of Business and Technology - BUBT. I am an UX Engineer.</h3>
+<a href="https://moinulrehan.framer.ai/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=framer&logoColor=6C63FF" /></a>
+<a href="https://www.behance.net/moinul_rehan"><img src="https://img.shields.io/badge/Behance-1a1a2e?style=for-the-badge&logo=behance&logoColor=1769FF" /></a>
+<a href="https://dribbble.com/moinul-rehan"><img src="https://img.shields.io/badge/Dribbble-1a1a2e?style=for-the-badge&logo=dribbble&logoColor=EA4C89" /></a>
+<a href="https://www.linkedin.com/in/moinul-rehan/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://x.com/moinul_rehan"><img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
 
-
-- 🔭 I’m currently studying **Computer Science and Engineering**
-
-- 🌱 I’m currently learning **Customer Experience and Python**
-
-- 💬 Ask me about **User Interface & User Experience**
-
-- 📫 How to reach me **rehan.moinul.10@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moinul_rehan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moinul-rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moinul-rehan" height="30" width="40" /></a>
-<a href="https://fb.com/moinul.rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moinul.rehan" height="30" width="40" /></a>
-<a href="https://instagram.com/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moinul_rehan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/moinul_rehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="moinul_rehan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/moinul_rehan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moinul-rehan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moinul_rehan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moinul_rehan" height="30" width="40" /></a>
-<a href="https://discord.gg/moinul_rehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rehan#4838" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
 </div>
 
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moinul-rehan)](https://github.com/ryo-ma/github-profile-trophy)
+## 𝟬𝟭. About
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moinul-rehan&theme=dark&show_icons=true)
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+I design digital products that feel effortless to use, then get close enough to the code to make sure they actually ship that way.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 💼 **UI/UX Designer** at Softvence IT Ltd.
+- 🧩 **2+ years** designing web & mobile products
+- 📦 **25+ client projects** delivered, research to handoff
+- 🎯 Focused on clarity, systems thinking, and interaction detail
+- 🛠️ Comfortable translating Figma into real front-end components
 
-![GitHub metrics](https://metrics.lecoq.io/moinul-rehan)  
+</td>
+<td width="40%" valign="top" align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=moinul-rehan)  
+```
+if (design == usable
+    && beautiful) {
+  ship();
+} else {
+  iterate();
+}
+```
 
-###
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
+
+## 𝟬𝟮. Toolkit
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/moinul-rehan/count.svg?"  />
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,html,css,js,react,git&theme=dark" />
+
 </div>
 
-###
+<br/>
+
+<div align="center">
+
+| Design | Prototype & Motion | Build |
+|:---:|:---:|:---:|
+| Figma · Photoshop · Illustrator | Framer · Adobe XD | HTML · CSS · JavaScript · React |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
+
+## 𝟬𝟯. Featured Work
+
+<div align="center">
+
+<a href="https://moinulrehan.framer.ai/">
+<img src="https://img.shields.io/badge/View_Portfolio-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🎨 Behance**
+<br/>
+Case studies & full project breakdowns
+<br/>
+<a href="https://www.behance.net/moinul_rehan">behance.net/moinul_rehan</a>
+
+</td>
+<td align="center" width="33%">
+
+**🏀 Dribbble**
+<br/>
+UI shots & visual explorations
+<br/>
+<a href="https://dribbble.com/moinul-rehan">dribbble.com/moinul-rehan</a>
+
+</td>
+<td align="center" width="33%">
+
+**🔗 Portfolio**
+<br/>
+Full case studies, start to finish
+<br/>
+<a href="https://moinulrehan.framer.ai/">moinulrehan.framer.ai</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
+
+## 𝟬𝟰. GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=c9c9c9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&theme=radical&hide_border=true&background=1a1a2e&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&text_color=c9c9c9" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=react-dark&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://metrics.lecoq.io/moinul-rehan?theme=dark&template=classic" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
+
+<div align="center">
+
+### Let's build something people actually enjoy using.
+
+📫 **rehan.moinul.10@gmail.com**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=100&section=footer" width="100%"/>
+
+</div>
