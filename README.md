@@ -122,20 +122,20 @@ Full case studies, start to finish
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&text_color=c9c9c9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&theme=radical&hide_border=true&background=1a1a2e&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&icon_color=6C63FF&text_color=333333" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&theme=default&hide_border=true&background=ffffff&stroke=e0e0e0&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&text_color=c9c9c9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=333333" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=react-dark&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=minimal&bg_color=ffffff&color=6C63FF&line=6C63FF&point=6C63FF&hide_border=true" width="100%"/>
 
 <br/>
 
-<img src="https://metrics.lecoq.io/moinul-rehan?theme=dark&template=classic" />
+<img src="https://metrics.lecoq.io/moinul-rehan?theme=classic&template=classic" />
 
 </div>
 
