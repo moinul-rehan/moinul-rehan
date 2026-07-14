@@ -22,7 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
 
-## 𝟬𝟭. About
+## 𝟬𝟭. About <img width="32" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Monkey.png" alt="monkey" align="center"/>
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ if (design == usable
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
 
-## 𝟬𝟮. Toolkit
+## 𝟬𝟮. Toolkit <img width="32" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Monkey.png" alt="monkey" align="center"/>
 
 <div align="center">
 
@@ -74,7 +74,7 @@ if (design == usable
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
 
-## 𝟬𝟯. Featured Work
+## 𝟬𝟯. Featured Work <img width="32" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Monkey.png" alt="monkey" align="center"/>
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Full case studies, start to finish
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=1&section=header&width=100%"/>
 
-## 𝟬𝟰. GitHub Activity
+## 𝟬𝟰. GitHub Activity <img width="32" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Animals/Monkey.png" alt="monkey" align="center"/>
 
 <div align="center">
 
