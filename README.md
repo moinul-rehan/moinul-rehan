@@ -2,17 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:0A0E1A&height=220&section=header&text=Moinul%20Islam%20Rehan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<svg width="240" height="70" viewBox="0 0 240 70" xmlns="http://www.w3.org/2000/svg">
-  <path id="sketch-path" d="M10,45 Q35,10 60,40 T110,35 T160,45 T230,20" fill="none" stroke="#14213D" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="420" stroke-dashoffset="420">
-    <animate attributeName="stroke-dashoffset" values="420;0;0;420" keyTimes="0;0.55;0.85;1" dur="3.2s" repeatCount="indefinite" />
-  </path>
-  <text font-size="22">
-    <animateMotion dur="3.2s" repeatCount="indefinite" rotate="auto" keyPoints="0;1;1;0" keyTimes="0;0.55;0.85;1" calcMode="linear">
-      <mpath href="#sketch-path"/>
-    </animateMotion>
-    ✏️
-  </text>
-</svg>
+<img width="220" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="sketching animation" />
 
 <br/>
 
