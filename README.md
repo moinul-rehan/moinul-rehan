@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:0A0E1A&height=220&section=header&text=Moinul%20Islam%20Rehan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img width="220" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="sketching animation" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="walking cat animation" />
 
 <br/>
 
