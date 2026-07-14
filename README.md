@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1a1a2e&height=220&section=header&text=Moinul%20Rehan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:0A0E1A&height=220&section=header&text=Moinul%20Rehan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=UI/UX%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Softvence+IT+Ltd.;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=14213D&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Softvence+IT+Ltd.;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://moinulrehan.framer.ai/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=framer&logoColor=6C63FF" /></a>
-<a href="https://www.behance.net/moinul_rehan"><img src="https://img.shields.io/badge/Behance-1a1a2e?style=for-the-badge&logo=behance&logoColor=1769FF" /></a>
-<a href="https://dribbble.com/moinul-rehan"><img src="https://img.shields.io/badge/Dribbble-1a1a2e?style=for-the-badge&logo=dribbble&logoColor=EA4C89" /></a>
-<a href="https://www.linkedin.com/in/moinul-rehan/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="https://x.com/moinul_rehan"><img src="https://img.shields.io/badge/X-1a1a2e?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
+<a href="https://moinulrehan.framer.ai/"><img src="https://img.shields.io/badge/Portfolio-14213D?style=for-the-badge&logo=framer&logoColor=white" /></a>
+<a href="https://www.behance.net/moinul_rehan"><img src="https://img.shields.io/badge/Behance-14213D?style=for-the-badge&logo=behance&logoColor=1769FF" /></a>
+<a href="https://dribbble.com/moinul-rehan"><img src="https://img.shields.io/badge/Dribbble-14213D?style=for-the-badge&logo=dribbble&logoColor=EA4C89" /></a>
+<a href="https://www.linkedin.com/in/moinul-rehan/"><img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://x.com/moinul_rehan"><img src="https://img.shields.io/badge/X-14213D?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
 
 </div>
 
@@ -77,7 +77,7 @@ if (design == usable
 <div align="center">
 
 <a href="https://moinulrehan.framer.ai/">
-<img src="https://img.shields.io/badge/View_Portfolio-6C63FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Portfolio-14213D?style=for-the-badge&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -122,16 +122,16 @@ Full case studies, start to finish
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&icon_color=6C63FF&text_color=333333" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&theme=default&hide_border=true&background=ffffff&stroke=e0e0e0&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=14213D&icon_color=14213D&text_color=333333" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&theme=default&hide_border=true&background=ffffff&stroke=e0e0e0&ring=14213D&fire=14213D&currStreakLabel=14213D" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=333333" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=14213D&text_color=333333" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=minimal&bg_color=ffffff&color=6C63FF&line=6C63FF&point=6C63FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=minimal&bg_color=ffffff&color=14213D&line=14213D&point=14213D&hide_border=true" width="100%"/>
 
 <br/>
 
@@ -149,6 +149,6 @@ Full case studies, start to finish
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,100:14213D&height=100&section=footer" width="100%"/>
 
 </div>
