@@ -54,7 +54,17 @@ if (design == usable
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,html,css,js,react,git&theme=dark" />
+<img src="https://img.shields.io/badge/Figma-14213D?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Framer-14213D?style=for-the-badge&logo=framer&logoColor=0055FF" />
+<img src="https://img.shields.io/badge/Claude-14213D?style=for-the-badge&logo=claude&logoColor=D97757" />
+<img src="https://img.shields.io/badge/Codex-14213D?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-14213D?style=for-the-badge&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Notion-14213D?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Miro-14213D?style=for-the-badge&logo=miro&logoColor=FFD02F" />
+<img src="https://img.shields.io/badge/Photoshop-14213D?style=for-the-badge&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/Illustrator-14213D?style=for-the-badge&logoColor=FF9A00" />
+<img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -62,9 +72,9 @@ if (design == usable
 
 <div align="center">
 
-| Design | Prototype & Motion | Build |
+| Design | AI &amp; Workflow | Collaboration |
 |:---:|:---:|:---:|
-| Figma · Photoshop · Illustrator | Framer · Adobe XD | HTML · CSS · JavaScript · React |
+| Figma · Photoshop · Illustrator | Claude · Codex · Antigravity | Framer · Notion · Miro · GitHub |
 
 </div>
 
