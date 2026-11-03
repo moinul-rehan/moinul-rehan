@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,50:1B7A52,100:14A6B5&height=220&section=header&text=Moinul%20Islam%20Rehan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=1B7A52&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Softvence+IT+Ltd.;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=1B7A52&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Tulip+Tech;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -39,7 +39,7 @@
 
 I design digital products that feel effortless to use, then get close enough to the code to make sure they actually ship that way.
 
-- 💼 **UI/UX Designer** at Softvence IT Ltd.
+- 💼 **UI/UX Designer** at Tulip Tech
 - 🧩 **2+ years** designing web & mobile products
 - 📦 **25+ client projects** delivered, research to handoff
 - 🎯 Focused on clarity, systems thinking, and interaction detail
