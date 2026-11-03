@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,50:1B7A52,100:14A6B5&height=220&section=header&text=Moinul%20Islam%20Rehan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B33,100:14A6B5&height=220&section=header&text=Moinul%20Islam%20Rehan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20crafting%20clean,%20human%20interfaces&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=1B7A52&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Tulip+Tech;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=14A6B5&center=true&vCenter=true&width=600&lines=2%2B+Years+of+Design+Experience;25%2B+Client+Projects+Shipped;Currently+Designing+at+Tulip+Tech;Figma+%E2%86%92+Code%2C+Idea+%E2%86%92+Interface" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,6 +16,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-1B7A52?style=flat-square" />
+<img src="https://img.shields.io/badge/Currently%20at-Tulip%20Tech-14A6B5?style=flat-square&labelColor=0F1B33" />
 <img src="https://img.shields.io/badge/Experience-2%2B%20years-14A6B5?style=flat-square" />
 <img src="https://img.shields.io/badge/Client%20projects-25%2B-0F1B33?style=flat-square" />
 
@@ -44,6 +45,12 @@ I design digital products that feel effortless to use, then get close enough to 
 - 📦 **25+ client projects** delivered, research to handoff
 - 🎯 Focused on clarity, systems thinking, and interaction detail
 - 🛠️ Comfortable translating Figma into real front-end components
+
+<sub>CURRENTLY DESIGNING AT</sub><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tuliptech-logo-dark.png">
+  <img src="./assets/tuliptech-logo-light.png" alt="Tulip Tech" height="28">
+</picture>
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -220,8 +227,8 @@ Full case studies, start to finish
 
 <br/>
 
-Made in Dhaka 🇧🇩 by **Moinul Islam Rehan**
+Made in Dhaka 🇧🇩 by **Moinul Islam Rehan** · Designing at **Tulip Tech**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14A6B5,50:1B7A52,100:0F1B33&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14A6B5,100:0F1B33&height=100&section=footer" width="100%"/>
 
 </div>
