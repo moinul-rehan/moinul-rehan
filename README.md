@@ -180,12 +180,12 @@ Full case studies, start to finish
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moinul-rehan&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0F1B33&icon_color=1B7A52&text_color=1B1B1B" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=moinul-rehan&theme=default&hide_border=true&background=ffffff&stroke=e0e0e0&ring=1B7A52&fire=14A6B5&currStreakLabel=0F1B33" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinul-rehan&theme=transparent" alt="GitHub profile summary for moinul-rehan" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinul-rehan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0F1B33&text_color=1B1B1B" />
+<img height="200" src="https://streak-stats.demolab.com/?user=moinul-rehan&hide_border=true&background=00000000&stroke=1B7A52&ring=1B7A52&fire=14A6B5&currStreakLabel=14A6B5&sideLabels=808080&dates=808080" alt="Contribution streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moinul-rehan&theme=transparent" alt="Most used languages" />
 
 </div>
 
@@ -196,20 +196,25 @@ Full case studies, start to finish
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinul-rehan&theme=minimal&bg_color=ffffff&color=0F1B33&line=1B7A52&point=14A6B5&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/1B7A52/moinul-rehan" width="100%" alt="Contribution graph for the past year" />
 
 </div>
 
 </details>
 
 <details>
-<summary><b>🧮 Full metrics</b> (click to expand)</summary>
+<summary><b>🧮 More stats</b> (click to expand)</summary>
 
 <br>
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/moinul-rehan?theme=classic&template=classic" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moinul-rehan&theme=transparent" alt="Commit and contribution stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moinul-rehan&theme=transparent" alt="Most committed languages" />
+
+<br/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moinul-rehan&theme=transparent&utcOffset=6" alt="Most productive time of day (UTC+6)" />
 
 </div>
 
