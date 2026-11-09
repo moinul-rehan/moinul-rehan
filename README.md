@@ -180,7 +180,7 @@ Full case studies, start to finish
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moinul-rehan&theme=transparent" alt="Commit and contribution stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinul-rehan&theme=transparent" alt="GitHub profile summary for moinul-rehan" />
 
 <br/>
 
@@ -209,6 +209,7 @@ Full case studies, start to finish
 
 <div align="center">
 
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moinul-rehan&theme=transparent" alt="Commit and contribution stats" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moinul-rehan&theme=transparent" alt="Most committed languages" />
 
 <br/>
